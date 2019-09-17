@@ -106,6 +106,23 @@ GenerateClassCluster=0
 DocumentUniqueId=WWJCHTVO
 
 [Document5]
+DocumentPath=Libraries\0ZCJ0020FF2E\Imported 0ZCJ0020FF2E.lia\0ZCJ0020FF2E.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=POWXRTQH
+
+[Document6]
 DocumentPath=Libraries\RMCF2512JT1K00\RMCF2512JT1K00.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWOWWPAF
 
-[Document6]
+[Document7]
 DocumentPath=Libraries\LTC4359IMS8#PBF\AltiumDesigner\2019-08-22_04-52-27\LTC4359IMS8#PBF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QSUXARUD
 
-[Document7]
+[Document8]
 DocumentPath=Libraries\ECS-.327-CDX-1128\ECS-.327-CDX-1128.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QRHIXUKM
 
-[Document8]
+[Document9]
 DocumentPath=Libraries\TPD3S014TDBVRQ1\AltiumDesigner\2019-08-02_06-34-07\2019-08-02_06-34-07.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHOCWVPE
 
-[Document9]
+[Document10]
 DocumentPath=Libraries\609-4616-1-ND\Imported 10118193-0001LF.lia\10118193-0001LF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TAPCKTDO
 
-[Document10]
+[Document11]
 DocumentPath=Libraries\LIS331DLHTR\LIS331DLHTR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GOAHVEUY
 
-[Document11]
+[Document12]
+DocumentPath=Libraries\0ZCJ0020FF2E\Imported 0ZCJ0020FF2E.lia\0ZCJ0020FF2E.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CYUCAEUN
+
+[Document13]
 DocumentPath=Libraries\ECS-160-8-30B-CKM\ECS-160-8-30B-CKM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRYUGWLL
 
-[Document12]
+[Document14]
 DocumentPath=Libraries\MK66FX1M0VLQ18\AltiumDesigner\2019-07-06_08-00-28\MK66FX1M0VLQ18.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YRDSLBXK
 
-[Document13]
+[Document15]
 DocumentPath=Libraries\LTC4359IMS8#PBF\AltiumDesigner\2019-08-22_04-52-27\LTC4359IMS8#PBF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDFAAPNX
 
-[Document14]
+[Document16]
 DocumentPath=Libraries\MK66FX1M0VLQ18\BGA\MK66FX1M0VMD18.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JRNVPTTM
 
-[Document15]
+[Document17]
 DocumentPath=Libraries\ECS-160-8-30B-CKM\ECS-160-8-30B-CKM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CQXOPEHV
 
-[Document16]
+[Document18]
 DocumentPath=Libraries\TPD3S014TDBVRQ1\AltiumDesigner\2019-08-02_06-34-07\2019-08-02_06-34-07.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HIHPLKWA
 
-[Document17]
+[Document19]
 DocumentPath=Libraries\ECS-.327-CDX-1128\ECS-.327-CDX-1128.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XIQTQHVO
 
-[Document18]
+[Document20]
 DocumentPath=Libraries\609-4616-1-ND\Imported 10118193-0001LF.lia\10118193-0001LF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITEJKING
 
-[Document19]
+[Document21]
 DocumentPath=Libraries\MCP9808T-EMS\Imported MCP9808T-E_MS.lia\MCP9808T-E_MS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IYEFSDRA
 
-[Document20]
+[Document22]
 DocumentPath=Libraries\MK66FX1M0VLQ18\BGA\MK66FX1M0VMD18.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MRVRFCXK
 
-[Document21]
+[Document23]
 DocumentPath=Libraries\114-00841-68\Imported 1140084168.lia\1140084168.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TIUGJJHE
 
-[Document22]
+[Document24]
 DocumentPath=Libraries\MK66FX1M0VLQ18\AltiumDesigner\2019-07-06_08-00-28\MK66FX1M0VLQ18.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XPAOQREN
 
-[Document23]
+[Document25]
 DocumentPath=Libraries\MKL02Z32VFG4\AltiumDesigner\2019-07-30_08-24-30\2019-07-30_08-24-30.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BKEBQVSW
 
-[Document24]
+[Document26]
 DocumentPath=Libraries\FDMS86101A\FDMS86101A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYMGOLNM
 
-[Document25]
+[Document27]
 DocumentPath=Libraries\114-00841-68\Imported 1140084168.lia\1140084168.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKXUGPLH
 
-[Document26]
+[Document28]
 DocumentPath=Libraries\SMAJ24CA-E361\AltiumDesigner\2019-08-31_05-08-46\2019-08-31_05-08-46.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ASNEMIYJ
 
-[Document27]
+[Document29]
 DocumentPath=Libraries\BNO080\Imported BNO080.lia\BNO080.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +530,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDKYBWYO
 
-[Document28]
+[Document30]
+DocumentPath=Libraries\PMEG4010CPA\Imported PMEG4010CPA.lia\PMEG4010CPA.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=APBRBUYD
+
+[Document31]
+DocumentPath=Libraries\P13348SCT-ND\P13348SCT-ND.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KSCDAUMC
+
+[Document32]
 DocumentPath=Libraries\SMAJ24CA-E361\SMAJ24CA-E361.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXXUAWXD
 
-[Document29]
+[Document33]
 DocumentPath=Libraries\MKL02Z32VFG4\AltiumDesigner\2019-07-30_08-24-30\2019-07-30_08-24-30.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WREVKNVN
 
-[Document30]
+[Document34]
 DocumentPath=4500-WB_AV_MainPCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVONOYIH
 
-[Document31]
+[Document35]
 DocumentPath=MK66F.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHOHBTEE
 
-[Document32]
+[Document36]
 DocumentPath=Redundant Batteries.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +649,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACUCPLYV
 
-[Document33]
+[Document37]
+DocumentPath=Libraries\PMEG4010CPA\Imported PMEG4010CPA.lia\PMEG4010CPA.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UNBDASVB
+
+[Document38]
 DocumentPath=Libraries\B5819WS-TP\DIODE SCHOTTKY 40V 1A SOD323.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWNQIPUE
 
-[Document34]
+[Document39]
 DocumentPath=Libraries\FDMS86101A\FDMS86101A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAQFEYOF
 
-[Document35]
+[Document40]
 DocumentPath=Libraries\S1B\S1B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTCXLDDM
 
-[Document36]
+[Document41]
 DocumentPath=Shore Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGRRJWVA
 
-[Document37]
+[Document42]
 DocumentPath=Libraries\MOC207M\MOC207M.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDJSNHAA
 
-[Document38]
+[Document43]
 DocumentPath=Libraries\MOC207M\MOC207M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRSSCYNN
 
-[Document39]
+[Document44]
 DocumentPath=IMU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MGQKPRAY
 
-[Document40]
+[Document45]
 DocumentPath=Libraries\Harwin Connectors\Harwin Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1724,107 +1809,143 @@ ComponentSymbolReference3=MKL02Z32VFG4
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=ECS-.327-CDX-1128.SchLib
-ComponentDesignItemID4=ECS-.327-CDX-1128
-ComponentSymbolReference4=ECS-.327-CDX-1128
+ComponentLibraryIdentifier4=BNO080.SchLib
+ComponentDesignItemID4=BNO080
+ComponentSymbolReference4=BNO080
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=ECS-160-8-30B-CKM.SchLib
-ComponentDesignItemID5=ECS-160-8-30B-CKM
-ComponentSymbolReference5=ECS-160-8-30B-CKM
+ComponentLibraryIdentifier5=ECS-.327-CDX-1128.SchLib
+ComponentDesignItemID5=ECS-.327-CDX-1128
+ComponentSymbolReference5=ECS-.327-CDX-1128
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=FDMS86101A.SchLib
-ComponentDesignItemID6=FDMS86101A
-ComponentSymbolReference6=FDMS86101A
+ComponentLibraryIdentifier6=ECS-160-8-30B-CKM.SchLib
+ComponentDesignItemID6=ECS-160-8-30B-CKM
+ComponentSymbolReference6=ECS-160-8-30B-CKM
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=LP38691SDX_3.SchLib
-ComponentDesignItemID7=LP38691SDX-3.3/N
-ComponentSymbolReference7=LP38691SDX-3.3/N
+ComponentLibraryIdentifier7=FDMS86101A.SchLib
+ComponentDesignItemID7=FDMS86101A
+ComponentSymbolReference7=FDMS86101A
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=LTC4359IMS8#PBF.SchLib
-ComponentDesignItemID8=LTC4359IMS8#PBF
-ComponentSymbolReference8=LTC4359IMS8#PBF
+ComponentLibraryIdentifier8=LIS331DLHTR.SchLib
+ComponentDesignItemID8=LIS331DLHTR
+ComponentSymbolReference8=LIS331DLHTR
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=Miscellaneous Connectors.IntLib
-ComponentDesignItemID9=Header 2
-ComponentSymbolReference9=Header 2
+ComponentLibraryIdentifier9=LP38691SDX_3.SchLib
+ComponentDesignItemID9=LP38691SDX-3.3/N
+ComponentSymbolReference9=LP38691SDX-3.3/N
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=Miscellaneous Devices.IntLib
-ComponentDesignItemID10=Cap Pol3
-ComponentSymbolReference10=Cap Pol3
+ComponentLibraryIdentifier10=LTC4359IMS8#PBF.SchLib
+ComponentDesignItemID10=LTC4359IMS8#PBF
+ComponentSymbolReference10=LTC4359IMS8#PBF
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=Miscellaneous Devices.IntLib
-ComponentDesignItemID11=Cap Semi
-ComponentSymbolReference11=Cap Semi
+ComponentLibraryIdentifier11=MCP9808T-E_MS.SchLib
+ComponentDesignItemID11=MCP9808T-E/MS
+ComponentSymbolReference11=MCP9808T-E/MS
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=Miscellaneous Devices.IntLib
-ComponentDesignItemID12=Cap
-ComponentSymbolReference12=Cap
+ComponentLibraryIdentifier12=Miscellaneous Connectors.IntLib
+ComponentDesignItemID12=Header 2
+ComponentSymbolReference12=Header 2
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=Miscellaneous Devices.IntLib
-ComponentDesignItemID13=Diode
-ComponentSymbolReference13=Diode
+ComponentDesignItemID13=Cap Pol1
+ComponentSymbolReference13=Cap Pol1
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=Miscellaneous Devices.IntLib
-ComponentDesignItemID14=Fuse 2
-ComponentSymbolReference14=Fuse 2
+ComponentDesignItemID14=Cap Pol3
+ComponentSymbolReference14=Cap Pol3
 ComponentUpdate14=1
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=Miscellaneous Devices.IntLib
-ComponentDesignItemID15=Inductor
-ComponentSymbolReference15=Inductor
+ComponentDesignItemID15=Cap Semi
+ComponentSymbolReference15=Cap Semi
 ComponentUpdate15=1
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=Miscellaneous Devices.IntLib
-ComponentDesignItemID16=Res1
-ComponentSymbolReference16=Res1
+ComponentDesignItemID16=Cap
+ComponentSymbolReference16=Cap
 ComponentUpdate16=1
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=Miscellaneous Devices.IntLib
-ComponentDesignItemID17=Res3
-ComponentSymbolReference17=Res3
+ComponentDesignItemID17=Diode 10TQ035
+ComponentSymbolReference17=Diode 10TQ035
 ComponentUpdate17=1
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
 ComponentLibraryIdentifier18=Miscellaneous Devices.IntLib
-ComponentDesignItemID18=SW-PB
-ComponentSymbolReference18=SW-PB
+ComponentDesignItemID18=Diode
+ComponentSymbolReference18=Diode
 ComponentUpdate18=1
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
 ComponentLibraryIdentifier19=Miscellaneous Devices.IntLib
-ComponentDesignItemID19=SW-SPST
-ComponentSymbolReference19=SW-SPST
+ComponentDesignItemID19=Fuse 2
+ComponentSymbolReference19=Fuse 2
 ComponentUpdate19=1
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
-ComponentLibraryIdentifier20=MOC207M.SchLib
-ComponentDesignItemID20=MOC207M
-ComponentSymbolReference20=MOC207M
+ComponentLibraryIdentifier20=Miscellaneous Devices.IntLib
+ComponentDesignItemID20=Inductor
+ComponentSymbolReference20=Inductor
 ComponentUpdate20=1
 ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=Miscellaneous Devices.IntLib
+ComponentDesignItemID21=Res1
+ComponentSymbolReference21=Res1
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=Miscellaneous Devices.IntLib
+ComponentDesignItemID22=Res3
+ComponentSymbolReference22=Res3
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=Miscellaneous Devices.IntLib
+ComponentDesignItemID23=SW-PB
+ComponentSymbolReference23=SW-PB
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=Miscellaneous Devices.IntLib
+ComponentDesignItemID24=SW-SPST
+ComponentSymbolReference24=SW-SPST
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=MOC207M.SchLib
+ComponentDesignItemID25=MOC207M
+ComponentSymbolReference25=MOC207M
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name And Type
+ComponentLibraryIdentifier26=PMEG4010CPA.SchLib
+ComponentDesignItemID26=PMEG4010CPA
+ComponentSymbolReference26=PMEG4010CPA
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1838,245 +1959,292 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Built_By
+ParameterName0=Availability
 ParameterUpdate0=1
-ParameterName1=Code_IEC
+ParameterName1=Built_By
 ParameterUpdate1=1
-ParameterName2=Code_JEDEC
+ParameterName2=Code_IEC
 ParameterUpdate2=1
-ParameterName3=Code_JEITA
+ParameterName3=Code_JEDEC
 ParameterUpdate3=1
-ParameterName4=Comment
+ParameterName4=Code_JEITA
 ParameterUpdate4=1
-ParameterName5=Component Kind
+ParameterName5=Comment
 ParameterUpdate5=1
-ParameterName6=ComponentLink1Description
+ParameterName6=Component Kind
 ParameterUpdate6=1
-ParameterName7=ComponentLink1URL
+ParameterName7=ComponentLink1Description
 ParameterUpdate7=1
-ParameterName8=Copyright
+ParameterName8=ComponentLink1URL
 ParameterUpdate8=1
-ParameterName9=CPU
+ParameterName9=ComponentLink2Description
 ParameterUpdate9=1
-ParameterName10=Desc
+ParameterName10=ComponentLink2URL
 ParameterUpdate10=1
-ParameterName11=Description
+ParameterName11=Copyright
 ParameterUpdate11=1
-ParameterName12=Digi-Key_Part_Number
+ParameterName12=CPU
 ParameterUpdate12=1
-ParameterName13=Digi-Key_Purchase_URL
+ParameterName13=DatasheetVersion
 ParameterUpdate13=1
-ParameterName14=Flash_KB
+ParameterName14=Desc
 ParameterUpdate14=1
-ParameterName15=LatestRevisionDate
+ParameterName15=Description
 ParameterUpdate15=1
-ParameterName16=LatestRevisionNote
+ParameterName16=Digi-Key_Part_Number
 ParameterUpdate16=1
-ParameterName17=Library Reference
+ParameterName17=Digi-Key_Purchase_URL
 ParameterUpdate17=1
-ParameterName18=Manufacturer_Part_Number
+ParameterName18=Flash_KB
 ParameterUpdate18=1
-ParameterName19=Max_Frequency
+ParameterName19=LatestRevisionDate
 ParameterUpdate19=1
-ParameterName20=MF
+ParameterName20=LatestRevisionNote
 ParameterUpdate20=1
-ParameterName21=MP
+ParameterName21=Library Reference
 ParameterUpdate21=1
-ParameterName22=Package
+ParameterName22=Manufacturer_Part_Number
 ParameterUpdate22=1
-ParameterName23=PackageDescription
+ParameterName23=Max_Frequency
 ParameterUpdate23=1
-ParameterName24=PackageReference
+ParameterName24=MF
 ParameterUpdate24=1
-ParameterName25=PackageVersion
+ParameterName25=MP
 ParameterUpdate25=1
-ParameterName26=Pin_Count
+ParameterName26=Note
 ParameterUpdate26=1
-ParameterName27=Published
+ParameterName27=Package
 ParameterUpdate27=1
-ParameterName28=Publisher
+ParameterName28=PackageDescription
 ParameterUpdate28=1
-ParameterName29=RefDes
+ParameterName29=PackageReference
 ParameterUpdate29=1
-ParameterName30=SnapEDA_Link
+ParameterName30=PackageVersion
 ParameterUpdate30=1
-ParameterName31=SPN
+ParameterName31=Parameter 1
 ParameterUpdate31=1
-ParameterName32=SRAM_KB
+ParameterName32=Pin_Count
 ParameterUpdate32=1
-ParameterName33=Supplier Part Number
+ParameterName33=Price
 ParameterUpdate33=1
-ParameterName34=Type
+ParameterName34=Published
 ParameterUpdate34=1
-ParameterName35=Value
+ParameterName35=Publisher
 ParameterUpdate35=1
-ParameterName36=Vendor
+ParameterName36=RefDes
 ParameterUpdate36=1
+ParameterName37=SnapEDA_Link
+ParameterUpdate37=1
+ParameterName38=SPN
+ParameterUpdate38=1
+ParameterName39=SRAM_KB
+ParameterUpdate39=1
+ParameterName40=Supplier Part Number
+ParameterUpdate40=1
+ParameterName41=Type
+ParameterUpdate41=1
+ParameterName42=Value
+ParameterUpdate42=1
+ParameterName43=Vendor
+ParameterUpdate43=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
 ModelName0=*1140084168
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=0402
+ModelName1=*IC_BNO080
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=0402-A
+ModelName2=*SOP65P490X110-8N
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=0603
+ModelName3=*SOT1061
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=12Z-2010
+ModelName4=0402
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=14-1210
+ModelName5=0402-A
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=1608[0603]
+ModelName6=0603
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=1812
+ModelName7=12Z-2010
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=1825
+ModelName8=14-1210
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=2029
+ModelName9=1608[0603]
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=2220
+ModelName10=1812
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=6-0805_L
+ModelName11=1825
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=98ASS23177W
+ModelName12=2029
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=AXIAL-0.3
+ModelName13=2220
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=C0805
+ModelName14=6-0805_L
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=C1206
+ModelName15=98ASS23177W
 ModelUpdate15=1
 ModelType16=PCBLIB
-ModelName16=C1210
+ModelName16=AXIAL-0.3
 ModelUpdate16=1
 ModelType17=PCBLIB
-ModelName17=C2225
+ModelName17=C0805
 ModelUpdate17=1
 ModelType18=PCBLIB
-ModelName18=C2512
+ModelName18=C1206
 ModelUpdate18=1
 ModelType19=PCBLIB
-ModelName19=CAP_2012
+ModelName19=C1210
 ModelUpdate19=1
 ModelType20=PCBLIB
-ModelName20=DIODE_DO-214AC
+ModelName20=C2225
 ModelUpdate20=1
 ModelType21=PCBLIB
-ModelName21=DIOM4427X27N
+ModelName21=C2512
 ModelUpdate21=1
 ModelType22=PCBLIB
-ModelName22=ECS-.327-CDX-1128
+ModelName22=CAP_2012
 ModelUpdate22=1
 ModelType23=PCBLIB
-ModelName23=ECS-160-8-30B-CKM
+ModelName23=DIODE SCHOTTKY 40V 1A SOD323
 ModelUpdate23=1
 ModelType24=PCBLIB
-ModelName24=FCI_10118193-0001LF_10118193-0001LF(Primary)
+ModelName24=DIODE_DO-214AC
 ModelUpdate24=1
 ModelType25=PCBLIB
-ModelName25=FDMS86101A
+ModelName25=DIOM4427X27N
 ModelUpdate25=1
 ModelType26=PCBLIB
-ModelName26=HDR1X2
+ModelName26=ECS-.327-CDX-1128
 ModelUpdate26=1
 ModelType27=PCBLIB
-ModelName27=INDC1608L
+ModelName27=ECS-160-8-30B-CKM
 ModelUpdate27=1
 ModelType28=PCBLIB
-ModelName28=INDC3216
+ModelName28=FCI_10118193-0001LF_10118193-0001LF(Primary)
 ModelUpdate28=1
 ModelType29=PCBLIB
-ModelName29=INDC4532
+ModelName29=FDMS86101A
 ModelUpdate29=1
 ModelType30=PCBLIB
-ModelName30=J1-0603
+ModelName30=HDR1X2
 ModelUpdate30=1
 ModelType31=PCBLIB
-ModelName31=MSOP-8_MS
+ModelName31=INDC1608L
 ModelUpdate31=1
 ModelType32=PCBLIB
-ModelName32=PIN-W2/E2.8
+ModelName32=INDC3216
 ModelUpdate32=1
 ModelType33=PCBLIB
-ModelName33=QFN-16_3X3X0.65
+ModelName33=INDC4532
 ModelUpdate33=1
 ModelType34=PCBLIB
-ModelName34=RAD-0.3
+ModelName34=J1-0603
 ModelUpdate34=1
 ModelType35=PCBLIB
-ModelName35=RESC6332
+ModelName35=LGA-16_3x3x1mm
 ModelUpdate35=1
 ModelType36=PCBLIB
-ModelName36=SDE06A
+ModelName36=LGA-16_3x3x1mm-L
 ModelUpdate36=1
 ModelType37=PCBLIB
-ModelName37=SMC
+ModelName37=LGA-16_3x3x1mm-M
 ModelUpdate37=1
 ModelType38=PCBLIB
-ModelName38=SOIC127P590X363-8N
+ModelName38=MSOP-8_MS
 ModelUpdate38=1
 ModelType39=PCBLIB
-ModelName39=SPST-2
+ModelName39=P13348SCT-ND
 ModelUpdate39=1
 ModelType40=PCBLIB
-ModelName40=STA_RMCF2512
+ModelName40=PIN-W2/E2.8
 ModelUpdate40=1
+ModelType41=PCBLIB
+ModelName41=QFN-16_3X3X0.65
+ModelUpdate41=1
+ModelType42=PCBLIB
+ModelName42=RAD-0.3
+ModelUpdate42=1
+ModelType43=PCBLIB
+ModelName43=RB7.6-15
+ModelUpdate43=1
+ModelType44=PCBLIB
+ModelName44=RESC6332
+ModelUpdate44=1
+ModelType45=PCBLIB
+ModelName45=SDE06A
+ModelUpdate45=1
+ModelType46=PCBLIB
+ModelName46=SMC
+ModelUpdate46=1
+ModelType47=PCBLIB
+ModelName47=SOIC127P590X363-8N
+ModelUpdate47=1
+ModelType48=PCBLIB
+ModelName48=SPST-2
+ModelUpdate48=1
+ModelType49=PCBLIB
+ModelName49=STA_RMCF2512
+ModelUpdate49=1
+ModelType50=PCBLIB
+ModelName50=TO-220AC
+ModelUpdate50=1
 ModelTypeGroup1=SI
 ModelTypeUpdate1=1
-ModelType41=SI
-ModelName41=Cap
-ModelUpdate41=1
-ModelType42=SI
-ModelName42=Cap Pol
-ModelUpdate42=1
-ModelType43=SI
-ModelName43=Cap Semi
-ModelUpdate43=1
-ModelType44=SI
-ModelName44=Connector
-ModelUpdate44=1
-ModelType45=SI
-ModelName45=Diode
-ModelUpdate45=1
-ModelType46=SI
-ModelName46=Inductor
-ModelUpdate46=1
-ModelType47=SI
-ModelName47=Res
-ModelUpdate47=1
+ModelType51=SI
+ModelName51=Cap
+ModelUpdate51=1
+ModelType52=SI
+ModelName52=Cap Pol
+ModelUpdate52=1
+ModelType53=SI
+ModelName53=Cap Semi
+ModelUpdate53=1
+ModelType54=SI
+ModelName54=Connector
+ModelUpdate54=1
+ModelType55=SI
+ModelName55=Diode
+ModelUpdate55=1
+ModelType56=SI
+ModelName56=Inductor
+ModelUpdate56=1
+ModelType57=SI
+ModelName57=Res
+ModelUpdate57=1
 ModelTypeGroup2=SIM
 ModelTypeUpdate2=1
-ModelType48=SIM
-ModelName48=CAP
-ModelUpdate48=1
-ModelType49=SIM
-ModelName49=DIODE
-ModelUpdate49=1
-ModelType50=SIM
-ModelName50=FUSE
-ModelUpdate50=1
-ModelType51=SIM
-ModelName51=INDUCTOR
-ModelUpdate51=1
-ModelType52=SIM
-ModelName52=RESISTOR
-ModelUpdate52=1
+ModelType58=SIM
+ModelName58=10TQ035
+ModelUpdate58=1
+ModelType59=SIM
+ModelName59=CAP
+ModelUpdate59=1
+ModelType60=SIM
+ModelName60=DIODE
+ModelUpdate60=1
+ModelType61=SIM
+ModelName61=FUSE
+ModelUpdate61=1
+ModelType62=SIM
+ModelName62=INDUCTOR
+ModelUpdate62=1
+ModelType63=SIM
+ModelName63=RESISTOR
+ModelUpdate63=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
