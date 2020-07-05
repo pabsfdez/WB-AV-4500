@@ -463,6 +463,23 @@ GenerateClassCluster=0
 DocumentUniqueId=BKEBQVSW
 
 [Document26]
+DocumentPath=Libraries\W5500\SnapEDApcb.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMIVLSFD
+
+[Document27]
 DocumentPath=Libraries\FDMS86101A\FDMS86101A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYMGOLNM
 
-[Document27]
+[Document28]
 DocumentPath=Libraries\114-00841-68\Imported 1140084168.lia\1140084168.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKXUGPLH
 
-[Document28]
+[Document29]
 DocumentPath=Libraries\SMAJ24CA-E361\AltiumDesigner\2019-08-31_05-08-46\2019-08-31_05-08-46.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ASNEMIYJ
 
-[Document29]
+[Document30]
 DocumentPath=Libraries\BNO080\Imported BNO080.lia\BNO080.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDKYBWYO
 
-[Document30]
+[Document31]
 DocumentPath=Libraries\5747847-4\AltiumV15\Imported AltiumV15.lia\5747847-4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +564,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUTDHJRB
 
-[Document31]
+[Document32]
+DocumentPath=Libraries\W5500\SnapEDAsch.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JVHTISAB
+
+[Document33]
 DocumentPath=Libraries\PMEG4010CPA\Imported PMEG4010CPA.lia\PMEG4010CPA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APBRBUYD
 
-[Document32]
+[Document34]
 DocumentPath=Libraries\P13348SCT-ND\P13348SCT-ND.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSCDAUMC
 
-[Document33]
+[Document35]
 DocumentPath=Libraries\SMAJ24CA-E361\SMAJ24CA-E361.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXXUAWXD
 
-[Document34]
+[Document36]
 DocumentPath=Libraries\5747847-4\AltiumV15\Imported AltiumV15.lia\5747847-4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LLYVWWXD
 
-[Document35]
+[Document37]
 DocumentPath=Libraries\MKL02Z32VFG4\AltiumDesigner\2019-07-30_08-24-30\2019-07-30_08-24-30.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WREVKNVN
 
-[Document36]
+[Document38]
 DocumentPath=4500-WB_AV_MainPCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +683,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVONOYIH
 
-[Document37]
+[Document39]
+DocumentPath=WIZ850io_SCH_V100.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DIXJXKGS
+
+[Document40]
 DocumentPath=MK66F.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHOHBTEE
 
-[Document38]
+[Document41]
 DocumentPath=Libraries\PMEG4010CPA\Imported PMEG4010CPA.lia\PMEG4010CPA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNBDASVB
 
-[Document39]
+[Document42]
 DocumentPath=Libraries\B5819WS-TP\DIODE SCHOTTKY 40V 1A SOD323.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWNQIPUE
 
-[Document40]
+[Document43]
 DocumentPath=Libraries\FDMS86101A\FDMS86101A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAQFEYOF
 
-[Document41]
+[Document44]
 DocumentPath=Libraries\S1B\S1B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTCXLDDM
 
-[Document42]
+[Document45]
 DocumentPath=Libraries\MOC207M\MOC207M.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDJSNHAA
 
-[Document43]
+[Document46]
 DocumentPath=Libraries\MOC207M\MOC207M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRSSCYNN
 
-[Document44]
+[Document47]
 DocumentPath=Libraries\Harwin Connectors\Harwin Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NRCESOWB
 
-[Document45]
+[Document48]
 DocumentPath=Libraries\Harting Connectors\Harting Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OFSKHUOQ
 
-[Document46]
+[Document49]
 DocumentPath=Apogee Detection.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +870,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document50]
 DocumentPath=MCP9808T.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -835,6 +886,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SMMZLAKA
+
+[Document51]
+DocumentPath=Libraries\Harting Connectors\77-pin.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EVWWCQZF
 
 [Configuration1]
 Name=Sources
@@ -955,7 +1023,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother MFC-J690DW Printer
+TargetPrinter=Hewlett-Packard hp LaserJet 4250
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
